@@ -7,9 +7,6 @@ import aop.MyMethodInterceptor;
 import context.ApplicationContext;
 import context.ClassPathXmlApplicationContext;
 
-/**
- * @author yihua.huang@dianping.com
- */
 public class ApplicationContextTest {
 
     @Test
